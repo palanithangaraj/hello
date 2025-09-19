@@ -1,1 +1,8 @@
-# hello
+# Hello
+
+## ~ This App is ust a POC to deploy in to EKS ~
+
+### Install
+```bash
+ sudo helm install hello-release hello-chart
+```
