@@ -1,6 +1,6 @@
 # Hello
 
-## ~ This App is ust a POC to deploy in to EKS ~
+## ~ This App is just a POC to deploy in to EKS ~
 
 ### Install
 ```bash
